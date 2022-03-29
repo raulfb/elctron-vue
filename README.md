@@ -1,5 +1,6 @@
 # electron-vue
 
+Template vue + electron
 ## Project setup
 ```
 npm install
